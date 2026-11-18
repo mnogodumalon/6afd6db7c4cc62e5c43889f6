@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "en": {
+      "Erste Umfrage anlegen": "Create first poll",
+      "Geschlossen": "Closed",
+      "Keine offene Umfrage — lege eine neue an und teile den Link.": "No open poll — create a new one and share the link.",
+      "Meiste Ja: {0} ({1})": "Most yes: {0} ({1})",
+      "Neue Umfrage": "New poll",
+      "Noch keine Umfrage. Lege die erste an und teile den Link mit den Teilnehmenden.": "No polls yet. Create the first one and share the link with participants.",
+      "Offen": "Open",
+      "Offen: {0} — noch keine Antworten.": "Open: {0} — no responses yet.",
+      "Termin festlegen & schließen": "Set date & close",
+      "Zu entscheiden: {0}.": "To decide: {0}."
+    }
+  },
+  "v": 1
+}
